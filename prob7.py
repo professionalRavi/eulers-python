@@ -8,7 +8,7 @@ def is_prime(n):
             return False
     return True
 
-while count < 10001:
+while count < 10000:
     if(is_prime(i)):
         num = i
         count+=1

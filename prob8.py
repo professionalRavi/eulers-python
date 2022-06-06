@@ -15,7 +15,7 @@ def calculate_product(list):
 
     pro = 1
     for i in list:
-        pro = pro*int(i)\
+        pro = pro*int(i)
     return pro
 
 calculate_greatest_product(num)

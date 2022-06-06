@@ -13,7 +13,6 @@ def is_prime(n):
 while i<2_000_000:
 
     if(is_prime(i)):
-        print(i)
         sum+=i
     i+=1
 
